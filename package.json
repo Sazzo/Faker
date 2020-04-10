@@ -1,0 +1,25 @@
+{
+  "name": "faker",
+  "version": "1.0.0",
+  "description": "A tool to check if a news story is real.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sazzo/Faker.git"
+  },
+  "author": "FelipeSazz (hi@sazz.xyz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sazzo/Faker/issues"
+  },
+  "homepage": "https://github.com/Sazzo/Faker#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
